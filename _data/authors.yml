@@ -1,0 +1,19 @@
+Toby Nieboer:
+  name             : "Toby Nieboer"
+  avatar           : "/assets/images/profile-pic-14.png"
+  bio              : "Technical recruiter and developer"
+  location         : "Melbourne, AU"
+  email            : 
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:toby@nieboer.com.au"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://tcn33.blog"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/tcn33"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/tcn33"
