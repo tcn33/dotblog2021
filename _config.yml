@@ -24,7 +24,7 @@ description              : "Technical recruiter and developer from Melbourne, Au
 url                      : "https://tcn33.blog"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "tcn33/dotblog2021"
-teaser                   : "/assets/images/profile-pic-14.png"
+teaser                   : # "/assets/images/profile-pic-14.png"
 logo                     : "/assets/images/Syd_Trains_Logo.svg.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -71,7 +71,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : tcn33
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -97,7 +97,7 @@ author:
   name             : "Toby Nieboer"
   avatar           : "/assets/images/profile-pic-14.png"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  location         : "Melbourne, AU 🇦🇺"
   email            :
   links:
     - label: "Email"
